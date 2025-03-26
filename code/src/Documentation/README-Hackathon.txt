@@ -62,5 +62,5 @@
   - Optimize Mistral-7B settings in `extract_financial_entities()`.
 
 ## Contact
-- Reach out via **GitHub Issues** for bug reports or enhancements.
+
 - Email the development team for further support.
